@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 
 const SecondPage = () => (
   <Layout>
-    <SEO title="Pagsdsd" />
+    <SEO title="Pawdwdd" />
     <h1>str druda</h1>
     <p>ggggg</p>
     <Link to="/">Go back to the homepage</Link>
